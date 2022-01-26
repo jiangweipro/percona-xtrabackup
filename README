@@ -15,3 +15,5 @@ For additional downloads and the source of MySQL, visit
   http://dev.mysql.com/downloads/
 
 MySQL is brought to you by the MySQL team at Oracle.
+
+Pull this branch and try to keep increments in full backup without saving the incremental file 
